@@ -28,6 +28,10 @@ This project is an AI-powered email assistant that automatically fetches unread 
 
 Create a whitelist.yaml file for managing email whitelisting.
 
+## Configuration
+
+Load environment variables from the .env file in your script.
+
 ## Usage
 Run the email assistant script:
 ```sh
