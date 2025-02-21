@@ -51,9 +51,3 @@ The script will:
 - Check for unread emails.
 - Extract content and analyze it.
 - Generate and send an appropriate reply.
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any questions, reach out to **your-email@example.com**.
-
