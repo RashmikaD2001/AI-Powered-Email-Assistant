@@ -1,2 +1,4 @@
 .env
 *.pyc
+whitelist.yaml
+email_assistant.log
