@@ -1,0 +1,14 @@
+From: sender@example.com  
+To: your-email@example.com  
+Subject: Reminder: Project Deadline Approaching  
+
+Dear Rashmika, 
+
+I hope this email finds you well. I just wanted to send a quick reminder that the deadline for submitting the final project report is approaching. The due date is February 25, 2025.  
+
+Please let me know if you need any assistance or if there are any updates regarding the submission.  
+
+Looking forward to your response.  
+
+Best regards,  
+John Doe 
