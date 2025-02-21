@@ -17,7 +17,17 @@ This project is an AI-powered email assistant that automatically fetches unread 
 - IMAP and SMTP email credentials
 - A Hugging Face API key
 
-  
+### Create a .env file and add the following environment variables:
+- EMAIL_USER=
+- EMAIL_PASSWORD=
+- IMAP_HOST='imap.gmail.com'
+- SMTP_SERVER='smtp.gmail.com'
+- SMTP_PORT=587
+- IMAP_PORT=993
+- HUGGINGFACE_API_TOKEN=
+
+Create a whitelist.yaml file for managing email whitelisting.
+
 ## Usage
 Run the email assistant script:
 ```sh
